@@ -9,7 +9,6 @@ double areaSquare(double);
 double areaRectangle(double,double);
 double areaTriangle(double,double);
 bool isValid(string);
-bool isValid();
 int main()
 {
     int choice;
